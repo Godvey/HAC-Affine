@@ -9,7 +9,8 @@ Simulation code for ***Enhanced Affine Formation Maneuver Control Using Historic
 **Date：     2023-07-22**
 
 ## Requirments
-Matlab Version 2020b and above.
+- Matlab Version 2020b and above.
+- Simulink Version 2020b and above.
 
 ## Code Structure
 
