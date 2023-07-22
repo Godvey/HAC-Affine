@@ -1,6 +1,10 @@
-Title：     Enhanced Affine Formation Maneuver Control Using Historical Acceleration Command (HAC)
+#  Enhanced Affine Formation Maneuver Control Using Historical Acceleration Command (HAC) Simulation Code
 
-Author： Peng Yi & Wei Yu
+## Introduction
+
+Simulation code for ***Enhanced Affine Formation Maneuver Control Using Historical Acceleration Command (HAC)***.
+
+Author：Wei Yu & Peng Yi
 
 Date：     2023-07-22
 
