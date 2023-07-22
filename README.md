@@ -1,14 +1,20 @@
-Title：     Enhanced Affine Formation Maneuver Control Using Historical Acceleration Command (HAC)
+#  Enhanced Affine Formation Maneuver Control Using Historical Acceleration Command (HAC) Simulation Code
 
-Author： Peng Yi & Wei Yu
+## Introduction
 
-Date：     2023-07-22
+Simulation code for ***Enhanced Affine Formation Maneuver Control Using Historical Acceleration Command (HAC)***.
+
+**Author：Wei Yu & Peng Yi**
+
+**Date：     2023-07-22**
 
 ## Requirments
-Matlab Version 2020b and above.
+- Matlab Version 2020b and above.
+- Simulink Version 2020b and above.
 
 ## Code Structure
 
+<img width="317" alt="code_structure" src="https://github.com/Lovely-XPP/HAC-Affine/assets/66028151/93326ddd-ac32-4532-9cab-aea330c388e4">
 
 - `affine_double_intergrator.slx` - Main programme of simulation by Simulink.
 
