@@ -1,5 +1,7 @@
 Title：     Enhanced Affine Formation Maneuver Control Using Historical Acceleration Command (HAC)
+
 Author： Peng Yi & Wei Yu
+
 Date：     2023-07-22
 
 ## Requirments
